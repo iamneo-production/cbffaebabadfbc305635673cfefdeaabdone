@@ -1,4 +1,4 @@
-package com.examly.springapp;
+package com.examly.springapp.configuration;
 @Configuration
 @ComponentScan(basePackages = "com.examly.springapp")
 public class AppConfig {
